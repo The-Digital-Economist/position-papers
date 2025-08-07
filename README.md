@@ -6,7 +6,7 @@ This repository hosts key position papers from The Digital Economist that explor
 
 ## Position Papers
 
-### [The Antifragility Imperative: Risk Management Beyond the Triple Crisis](./The%20Antifragility%20Imperative.pdf)
+### [The Antifragility Imperative: Risk Management Beyond the Triple Crisis](./The Antifragility Imperative Risk.pdf)
 This paper explores how the converging crises of 2020—from global health emergencies to systemic unrest—revealed deep structural fragilities. It argues for a shift beyond conventional risk management toward *antifragility*: the ability to grow stronger through disruption. Through analysis of uneven global responses, the paper advocates for systemic preparedness and resilience in a volatile world.
 
 ### [The Gray Rhino in the Room: The Fragility of Digital Technologies](./The%20Gray%20Rhino%20in%20the%20Room.pdf)
